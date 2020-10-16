@@ -1,0 +1,12 @@
+C:\Users\Oren\Desktop\כל מיני\VB.NET\Conquer Cps Calculator\Conquer Cps Calculator\bin\Debug\Conquer Cps Calculator.exe
+C:\Users\Oren\Desktop\כל מיני\VB.NET\Conquer Cps Calculator\Conquer Cps Calculator\bin\Debug\Conquer Cps Calculator.pdb
+C:\Users\Oren\Desktop\כל מיני\VB.NET\Conquer Cps Calculator\Conquer Cps Calculator\bin\Debug\Conquer Cps Calculator.xml
+C:\Users\Oren\Desktop\כל מיני\VB.NET\Conquer Cps Calculator\Conquer Cps Calculator\obj\Debug\Conquer Cps Calculator.vbprojAssemblyReference.cache
+C:\Users\Oren\Desktop\כל מיני\VB.NET\Conquer Cps Calculator\Conquer Cps Calculator\obj\Debug\Conquer_Cps_Calculator.Form1.resources
+C:\Users\Oren\Desktop\כל מיני\VB.NET\Conquer Cps Calculator\Conquer Cps Calculator\obj\Debug\Conquer_Cps_Calculator.Form2.resources
+C:\Users\Oren\Desktop\כל מיני\VB.NET\Conquer Cps Calculator\Conquer Cps Calculator\obj\Debug\Conquer_Cps_Calculator.Form3.resources
+C:\Users\Oren\Desktop\כל מיני\VB.NET\Conquer Cps Calculator\Conquer Cps Calculator\obj\Debug\Conquer Cps Calculator.vbproj.GenerateResource.cache
+C:\Users\Oren\Desktop\כל מיני\VB.NET\Conquer Cps Calculator\Conquer Cps Calculator\obj\Debug\Conquer Cps Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Oren\Desktop\כל מיני\VB.NET\Conquer Cps Calculator\Conquer Cps Calculator\obj\Debug\Conquer Cps Calculator.exe
+C:\Users\Oren\Desktop\כל מיני\VB.NET\Conquer Cps Calculator\Conquer Cps Calculator\obj\Debug\Conquer Cps Calculator.xml
+C:\Users\Oren\Desktop\כל מיני\VB.NET\Conquer Cps Calculator\Conquer Cps Calculator\obj\Debug\Conquer Cps Calculator.pdb
