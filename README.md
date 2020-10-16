@@ -1,5 +1,5 @@
 # ConquerOnline Cps to Gold Calculator
-Tool for fiding all items prices, by entering a specific stable item price and finding it's price ratio.
+Tool for fiding all items prices, by entering a specific stable item price.
 
 ## Compare items prices by one fixed ratio of: Cps <=> Gold
 You can compare one item to another by a *price ratio*, then you sell one for another to make profit.
